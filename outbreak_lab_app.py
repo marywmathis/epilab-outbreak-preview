@@ -1519,9 +1519,7 @@ st.markdown("""
   <a href="https://marywmathis.gumroad.com" target="_blank"
      style="background:#2563eb;color:white;font-weight:700;font-size:13px;
             padding:10px 20px;border-radius:6px;text-decoration:none;display:inline-block;">
-    Get EpiLab Interactive — $129 →
+    Learn More →
   </a>
-  &nbsp;&nbsp;
-  <span style="font-size:12px;color:#6b7280;">Includes app access + 4 instructor manuals (.docx)</span>
 </div>
 """, unsafe_allow_html=True)
