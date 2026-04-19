@@ -25,7 +25,7 @@ st.markdown("""
       </div>
     </div>
     <div style="margin-left:auto;">
-      <a href="https://mathiscope504.gumroad.com/l/mknsox" target="_blank"
+      <a href="https://mathiscope504.gumroad.com/l/auvktm" target="_blank"
          style="background:#f59e0b;color:#1a1a1a;font-weight:700;font-size:12px;
                 padding:8px 16px;border-radius:6px;text-decoration:none;white-space:nowrap;">
         🛒 Get Full EpiLab →
@@ -1516,7 +1516,7 @@ st.markdown("""
     frequency, measures of association, and 35+ practice scenarios — plus these three outbreak
     investigations and four instructor manuals aligned to CEPH competencies.
   </div>
-  <a href="https://mathiscope504.gumroad.com/l/mknsox" target="_blank"
+  <a href="https://mathiscope504.gumroad.com/l/auvktm" target="_blank"
      style="background:#2563eb;color:white;font-weight:700;font-size:13px;
             padding:10px 20px;border-radius:6px;text-decoration:none;display:inline-block;">
     Learn More →
