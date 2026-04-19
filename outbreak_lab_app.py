@@ -1521,7 +1521,6 @@ st.markdown("""
             padding:10px 20px;border-radius:6px;text-decoration:none;display:inline-block;">
     Learn More →
   </a>
-  &nbsp;&nbsp;
   <span style="font-size:12px;color:#6b7280;">Includes app access + 4 instructor manuals (.docx)</span>
 </div>
 """, unsafe_allow_html=True)
