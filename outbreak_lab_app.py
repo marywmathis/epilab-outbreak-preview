@@ -1512,9 +1512,8 @@ st.markdown("""
     📚 This is a free preview of EpiLab Interactive
   </div>
   <div style="font-size:13px;color:#374151;line-height:1.7;margin-bottom:14px;">
-    The full app includes <strong>4 complete modules</strong> covering study design, disease
-    frequency, measures of association, and 35+ practice scenarios — plus these three outbreak
-    investigations and four instructor manuals aligned to CEPH competencies.
+    The full app includes <strong>11 complete modules</strong> with 4 practice labs of 8 scenarios
+    each, a glossary, and an outbreak lab — all aligned to CEPH competencies.
   </div>
   <a href="https://mathiscope504.gumroad.com/l/mknsox" target="_blank"
      style="background:#2563eb;color:white;font-weight:700;font-size:13px;
